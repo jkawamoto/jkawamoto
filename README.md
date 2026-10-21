@@ -15,15 +15,14 @@
 - **Security & Privacy**: Cloud Computing Privacy, Differential Privacy, Social Data Protection
 - **Cryptography**: Secret Sharing Schemes, Cryptographic Protocols, Cryptocurrency
 - **Systems & Cloud**: Cloud-native execution, CI/CD tooling, Containerization
-- **Languages**: Go, Python, Shell, etc.
+- **Languages**: Go, Rust, Python, etc.
 
 ---
 
 ### 🚀 Featured Open Source Projects / 主なOSSプロジェクト
-- **[roadie](https://github.com/jkawamoto/roadie)** - An easy way to run programs on cloud platforms (AWS, GCP, etc.).
-- **[loci](https://github.com/jkawamoto/loci)** - Test remote CI scripts and workflows locally.
-- **[fgo](https://github.com/jkawamoto/fgo)** - CLI tool to build, upload, and create Homebrew formulas for Go applications.
-- **[sss](https://github.com/jkawamoto/sss)** - A clean Go implementation of Shamir's Secret Sharing.
+- **[ctranslate2-rs](https://github.com/jkawamoto/ctranslate2-rs)** - Rust bindings for OpenNMT/CTranslate2, enabling fast Transformer and Whisper model inference in Rust.
+- **[mcp-youtube-transcript](https://github.com/jkawamoto/mcp-youtube-transcript)** - Model Context Protocol (MCP) server for retrieving transcripts of YouTube videos for LLMs.
+- **[go-pixeldrain](https://github.com/jkawamoto/go-pixeldrain)** - Go client library and CLI for Pixeldrain file storage and transfer services.
 
 ---
 
